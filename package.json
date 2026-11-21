@@ -1,0 +1,10 @@
+{
+  "name": "ramanainhyd-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev": "vercel dev", "start": "vercel dev"},
+  "dependencies": {"@supabase/supabase-js": "^2.49.1"},
+  "devDependencies": {"vercel": "^41.4.1"},
+  "engines": {"node": ">=20"}
+}
